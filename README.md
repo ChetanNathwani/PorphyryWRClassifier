@@ -1,4 +1,4 @@
-# PorphyryWRClassifier
+# porphyryWRclassifier
 Classification of whole-rock geochemistry using machine learning algorithms
 
 This includes a minimum working example to reproduce the machine learning classification of whole-rock geochemistry from Nathwani et al. (2022):
